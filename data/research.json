@@ -1,1 +1,2515 @@
-{"updated_at":null,"records":[],"methodology":"Bibliographic metadata only; expert review required"}
+{
+  "updated_at": "2026-10-26T16:24:24.152543+00:00",
+  "records": [
+    {
+      "source": "PubMed",
+      "id": "PMID:42574938",
+      "title": "Impact of kangaroo care on circadian rhythm, growth, physiological stability in premature infants, and cortisol and melatonin levels in maternal breast milk: A randomized controlled trial.",
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42574938/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42490082",
+      "title": "Safe Sleep Video Intervention via Text Messaging to Low-Income Families: The SMARTER Randomized Clinical Trial.",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42490082/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42429296",
+      "title": "Safer Sleep Guidance in Standalone UK Smartphone Apps for Parents of Newborns and Infants: Systematic mHealth App Review.",
+      "date": "2026 Jul 10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42429296/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42276953",
+      "title": "A culturally relevant sleep intervention for New Zealand families with pēpi aged 2 to 12 months: The Moemoeā factorial trial.",
+      "date": "2026 Aug",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42276953/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:41981811",
+      "title": "Effectiveness of preventive parental education delivered from pregnancy to 1 month postpartum for improving infant sleep and parental sleep and depression: a systematic review.",
+      "date": "2026 Apr 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41981811/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:41887120",
+      "title": "High-dose vs standard-dose vitamin D and sleep in early childhood: A randomized clinical trial.",
+      "date": "2026 Jul",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41887120/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:41758575",
+      "title": "The effect of prebiotic intervention foods on caregiver-reported infant sleep and caregiver sleep quality during complementary feeding- secondary analysis of a randomized control trial.",
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41758575/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:41140015",
+      "title": "Exploring Effects of a Randomized Online Infant Sleep Intervention on Weight-Related Outcomes Into Toddlerhood.",
+      "date": "2026 Jun",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41140015/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:41110255",
+      "title": "Can behavioural interventions delivered using digital technologies influence infant sleep? A systematic review and meta-analysis.",
+      "date": "2025 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41110255/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:41081516",
+      "title": "Mother-Infant Yoga: A Novel Approach to Improving Infant Sleep, Maternal-Infant Bonding, and Breastfeeding Self-Efficacy: A Randomized Controlled Trial.",
+      "date": "2026 Oct-Dec 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41081516/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:40854740",
+      "title": "Inconsistency of infant caretakers' visual exposome with safe infant sleep recommendations: a systematic review and meta-analysis.",
+      "date": "2025 Dec 15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40854740/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:40782699",
+      "title": "Self-efficacy-based web and mobile intervention to improve infant sleep: Randomized trial with Brazilian mothers.",
+      "date": "2025 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40782699/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:40669324",
+      "title": "Do behavioral mother-infant sleep interventions in the first six months affect maternal sleep, anxiety, and fatigue? A randomized controlled trial.",
+      "date": "2025 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40669324/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:40578827",
+      "title": "Shared sleep needs and seeking synchrony in parent-infant sleep: a meta-ethnography of parents' perspectives and experiences.",
+      "date": "2025 Oct 13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40578827/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:39836946",
+      "title": "Comparison of the Effect of the White Noise and Sound Reduction on Behavioral Responses of Premature Infants Under Noninvasive Ventilation: A Clinical Trial.",
+      "date": "2026 Jan-Mar 01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39836946/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:39478469",
+      "title": "Exploring paternal postpartum depression and contributing factors in Ethiopia: a systematic review and meta-analysis.",
+      "date": "2024 Oct 30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39478469/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:39436396",
+      "title": "Sleeping for Two: a randomized controlled trial of cognitive behavioral therapy for insomnia in pregnancy.",
+      "date": "2025 Feb 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39436396/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:39426626",
+      "title": "Practical resources for effective postpartum parenting (PREPP): a randomized controlled trial of a novel parent-infant dyadic intervention to reduce symptoms of postpartum depression.",
+      "date": "2024 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39426626/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:39417265",
+      "title": "The Effects of Baby Calming Training Provided to Primiparous Mothers on Maternal Role Perception, Maternal Attachment, and Breastfeeding Self-Efficacy: A Randomized Controlled Trial.",
+      "date": "2024 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39417265/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:39158050",
+      "title": "The association between infant sleep, cognitive, and psychomotor development: a systematic review.",
+      "date": "2024 Nov 8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39158050/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:39147376",
+      "title": "Effect of biotic supplementation on infant sleep and settling behaviours: A systematic review and meta-analysis.",
+      "date": "2024 Aug 14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39147376/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:38836978",
+      "title": "Maternal Depression and Sleep Problems in Early Childhood: A Meta-Analysis.",
+      "date": "2026 Apr",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38836978/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:38760904",
+      "title": "Failure of an electric rocking device to improve neonatal sleep.",
+      "date": "2024 Aug",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38760904/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:38736364",
+      "title": "Preventing postpartum insomnia: findings from a three-arm randomized-controlled trial of cognitive behavioral therapy for insomnia, a responsive bassinet, and sleep hygiene.",
+      "date": "2024 Aug 14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38736364/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:38704536",
+      "title": "Early sleep intervention for improving infant sleep quality: a randomized controlled trial, preliminary result.",
+      "date": "2024 May 4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38704536/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:38648117",
+      "title": "Maternal depressive symptoms and mother-infant cosleeping (including room sharing and bedsharing): a systematic review.",
+      "date": "2024 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38648117/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:38330306",
+      "title": "Responsive parenting and Black mothers' postpartum sleep: Secondary analysis of a randomized controlled trial.",
+      "date": "2024 Jun",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38330306/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:37909654",
+      "title": "Safety and efficacy of melatonin supplementation as an add-on treatment for infantile epileptic spasms syndrome: A randomized, placebo-controlled, double-blind trial.",
+      "date": "2024 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37909654/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:37892514",
+      "title": "Impact of a Nutrient Formulation on Longitudinal Myelination, Cognition, and Behavior from Birth to 2 Years: A Randomized Clinical Trial.",
+      "date": "2023 Oct 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37892514/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:37742338",
+      "title": "The effects of Yakson touch and gentle human touch on preterm infants: A systematic review and meta-analysis.",
+      "date": "2023 Jul",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37742338/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:37671613",
+      "title": "Infant sleep interventions with sleep measurements using actigraphy: A systematic review.",
+      "date": "2024 Feb",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37671613/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:37532607",
+      "title": "Effects of psychosocial sleep interventions on improving infant sleep and maternal sleep and mood: A systematic review and meta-analysis.",
+      "date": "2023 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37532607/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:37248915",
+      "title": "Bedtime massage intervention for improving infant and mother sleep condition: A randomized controlled trial.",
+      "date": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37248915/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:37000448",
+      "title": "Effects of a Responsive Parenting Intervention Among Black Families on Infant Sleep: A Secondary Analysis of the Sleep SAAF Randomized Clinical Trial.",
+      "date": "2023 Mar 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37000448/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:36944485",
+      "title": "Reference centiles for infant sleep parameters from 4 to 16 weeks of age: findings from an Irish cohort.",
+      "date": "2023 Jun",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36944485/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:36658521",
+      "title": "The provision of the baby box was associated with safe sleep practices in a low-resource community: a randomized control trial in Ecuador.",
+      "date": "2023 Jan 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36658521/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:36604380",
+      "title": "Does Exposure to Pediatrician or Parent Blog Content Influence Infant Safe Sleep Practices?",
+      "date": "2023 Feb",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36604380/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:35653761",
+      "title": "Daily skin-to-skin contact and crying and sleeping in healthy full-term infants: A randomized controlled trial.",
+      "date": "2022 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35653761/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:35644107",
+      "title": "Effects of Omega-3-6-9 fatty acid supplementation on behavior and sleep in preterm toddlers with autism symptomatology: Secondary analysis of a randomized clinical trial.",
+      "date": "2022 Jun",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35644107/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:35380237",
+      "title": "Do responsive sleep interventions impact mental health in mother/infant dyads compared to extinction interventions? A pilot study.",
+      "date": "2022 Jun",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35380237/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:35367719",
+      "title": "Hospital-based inpatient quality improvement initiatives on safe infant sleep: Systematic review and narrative synthesis.",
+      "date": "2022 Jun",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35367719/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:35363420",
+      "title": "Impact of baby behaviour on caregiver's infant feeding decisions during the first 6 months of life: A systematic review.",
+      "date": "2022 May",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35363420/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:35047461",
+      "title": "Interventions to Improve Safer Sleep Practices in Families With Children Considered to Be at Increased Risk for Sudden Unexpected Death in Infancy: A Systematic Review.",
+      "date": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35047461/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:34999324",
+      "title": "The effect of vitamin B12-supplementation on actigraphy measured sleep pattern; a randomized control trial.",
+      "date": "2022 Feb",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34999324/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:34836365",
+      "title": "Type of Milk Feeding and Introduction to Complementary Foods in Relation to Infant Sleep: A Systematic Review.",
+      "date": "2021 Nov 16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34836365/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:34627192",
+      "title": "Cultural variation in factors associated with sudden infant death during sleep.",
+      "date": "2021 Oct 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34627192/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:34479309",
+      "title": "Sleep in children with microcephaly due to Zika virus infection: a systematic review.",
+      "date": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34479309/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:34409935",
+      "title": "Effect of Play2Sleep on mother-reported and father-reported infant sleep: a sequential explanatory mixed-methods study of a randomized controlled trial.",
+      "date": "2022 Feb 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34409935/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:34372665",
+      "title": "Association between poor sleep for infants to two years and subsequent mental health symptoms: A systematic review and meta-analysis.",
+      "date": "2022 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34372665/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:34022122",
+      "title": "Comparing the effectiveness of mother's live lullaby and recorded lullaby on physiological responses and sleep of preterm infants: a clinical trial study.",
+      "date": "2021 May 24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34022122/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:33929753",
+      "title": "Improving engagement with services to prevent Sudden Unexpected Death in Infancy (SUDI) in families with children at risk of significant harm: A systematic review of evidence.",
+      "date": "2021 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33929753/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:33825213",
+      "title": "The effects of infant behavioural sleep interventions on maternal sleep and mood, and infant sleep: A randomised controlled trial.",
+      "date": "2021 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33825213/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:33754131",
+      "title": "Decision-making for the infant sleep environment among families with children considered to be at risk of sudden unexpected death in infancy: a systematic review and qualitative metasynthesis.",
+      "date": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33754131/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:33719795",
+      "title": "Examining Patient Feedback and the Role of Cognitive Arousal in Treatment Non-response to Digital Cognitive-behavioral Therapy for Insomnia during Pregnancy.",
+      "date": "2022 Mar-Apr",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33719795/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:33408648",
+      "title": "Parental Cognitions About Sleep Problems in Infants: A Systematic Review.",
+      "date": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33408648/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:33340291",
+      "title": "Psycho-educational interventions focused on maternal or infant sleep for pregnant women to prevent the onset of antenatal and postnatal depression: A systematic review.",
+      "date": "2021 Mar",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33340291/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:33032546",
+      "title": "Improving infant sleep safety via electronic health record communication: a randomized controlled trial.",
+      "date": "2020 Oct 8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33032546/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:32959761",
+      "title": "Waterless Hand Cleansing with Chlorhexidine during the Neonatal Period by Mothers and Other Household Members: Findings from a Randomized Controlled Trial.",
+      "date": "2020 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32959761/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:32915514",
+      "title": "Sleep-wake patterns in newborns are associated with infant rapid weight gain and incident adiposity in toddlerhood.",
+      "date": "2021 Mar",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32915514/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:32423396",
+      "title": "Effects of journal therapy counseling with anxious pregnant women on their infants' sleep quality: a randomized controlled clinical trial.",
+      "date": "2020 May 18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32423396/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:32279703",
+      "title": "Behavioral interventions for infant sleep problems: the role of parental cry tolerance and sleep-related cognitions.",
+      "date": "2020 Aug 15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32279703/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:31962260",
+      "title": "Postpartum stress and infant outcome: A review of current literature.",
+      "date": "2020 Feb",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31962260/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:31860110",
+      "title": "Effect of Parental Counseling on Infants' Healthy Sleep Habits in Brazil: A Randomized Clinical Trial.",
+      "date": "2019 Dec 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31860110/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:31692365",
+      "title": "Sleep during Infancy and Associations with Childhood Body Composition: A Systematic Review and Narrative Synthesis.",
+      "date": "2020 Mar",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31692365/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:31676910",
+      "title": "Behavioral interventions for pediatric insomnia: one treatment may not fit all.",
+      "date": "2020 Apr 15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31676910/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:31538590",
+      "title": "Docosahexaenoic Acid and Arachidonic Acid Supplementation and Sleep in Toddlers Born Preterm: Secondary Analysis of a Randomized Clinical Trial.",
+      "date": "2019 Sep 15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31538590/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:31254631",
+      "title": "Content of Infant Safe Sleep Counseling and Maternal Reported Practices in an Urban Clinic.",
+      "date": "2019 Sep-Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31254631/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:31122876",
+      "title": "Consistent use of bedtime parenting strategies mediates the effects of sleep education on child sleep: secondary findings from an early-life randomized controlled trial.",
+      "date": "2019 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31122876/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:31015374",
+      "title": "Mediators of Improved Adherence to Infant Safe Sleep Using a Mobile Health Intervention.",
+      "date": "2019 May",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31015374/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:30306546",
+      "title": "Dietary modifications for infantile colic.",
+      "date": "2018 Oct 10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30306546/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:30156058",
+      "title": "Outcomes of an early childhood obesity prevention program in a low-income community: a pilot, randomized trial.",
+      "date": "2018 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30156058/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:29987321",
+      "title": "Association of Early Introduction of Solids With Infant Sleep: A Secondary Analysis of a Randomized Clinical Trial.",
+      "date": "2018 Aug 6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29987321/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:29637434",
+      "title": "The Impact of Health Messages on Maternal Decisions About Infant Sleep Position: A Randomized Controlled Trial.",
+      "date": "2018 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29637434/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:29449122",
+      "title": "Non-pharmacological interventions for improving postpartum maternal sleep: A systematic review and meta-analysis.",
+      "date": "2018 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29449122/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:29356197",
+      "title": "Reference values and changes in infant sleep-wake behaviour during the first 12 months of life: a systematic review.",
+      "date": "2018 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29356197/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42453156",
+      "title": "Community-engaged and Implementation Science-informed Pediatric Sleep Intervention Research.",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42453156/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42440021",
+      "title": "Sleep Interventions and the Prevention of Pediatric Anxiety: A Systematic Review.",
+      "date": "2026 Jul 13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42440021/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42416690",
+      "title": "Feasibility and acceptability of Nenne Navi-AI: family-tailored intervention to improve sleep in young Japanese children.",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42416690/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42164624",
+      "title": "A multi-method pilot exploration of a brief behavioral sleep intervention for school-aged children: feasibility, acceptability, and initial evaluation.",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42164624/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42048469",
+      "title": "Behavioral Sleep Education in Pediatric Primary Care: Building Capacity Through the Extension for Community Healthcare Outcomes (ECHO) Model.",
+      "date": "2026 May 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42048469/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:40538170",
+      "title": "Treating preschooler behavioural sleep problems via parent-mediated telehealth: A randomized controlled trial.",
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40538170/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:40532394",
+      "title": "Infant and toddler sleep research: A narrative review of developmental shifts, clinical guidelines, parenting practices, assessments, and interventions.",
+      "date": "2025 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40532394/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:40266509",
+      "title": "Feasibility of an Unguided, Parent-Focused, Online Program for Sleep Problems in Young Children: The Lights Out Online Program.",
+      "date": "2025 Apr 23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40266509/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:39976422",
+      "title": "The Sleep Train Program: Efficacy of a Behavioral Sleep Intervention for Children with Externalizing Problems.",
+      "date": "2025 Feb 20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39976422/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:39932204",
+      "title": "Systematic review and meta-analysis of behavioral interventions for sleep disruption in pediatric neurodevelopmental and medical conditions.",
+      "date": "2025 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39932204/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:39752848",
+      "title": "The need for pediatric sleep education to enhance healthcare for children and adolescents: A global perspective from a survey of members of the international pediatric sleep association.",
+      "date": "2025 Feb",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39752848/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:39306958",
+      "title": "A pilot randomised controlled trial of a telehealth-delivered brief 'Sleeping Sound Autism' intervention for autistic children.",
+      "date": "2024 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39306958/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:39114343",
+      "title": "The influence of infant sleep problems and sleep training on maternal subjective well-being.",
+      "date": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39114343/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:38955582",
+      "title": "Perceptions of sleep health among African American mothers regarding their preschool-aged children: A qualitative study to decrease sleep health disparities.",
+      "date": "2024 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38955582/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:38554532",
+      "title": "A randomized controlled trial of effects of sleep hygiene training and progressive muscle relaxation training in children with ADHD.",
+      "date": "2024 May",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38554532/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:38439703",
+      "title": "An Open-Label Pilot Trial of a Brief, Parent-Based Sleep Intervention in Children With ADHD.",
+      "date": "2024 Jun",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38439703/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:37770048",
+      "title": "Five-year follow-up of a clinic-based sleep intervention for paediatric epilepsy: A randomized clinical trial.",
+      "date": "2024 May",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37770048/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:37752432",
+      "title": "Promoting healthy sleep in Chinese kindergarteners through a family-based intervention: protocol of the \"Healthy Sleep\" randomised controlled trial.",
+      "date": "2023 Sep 26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37752432/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:36722616",
+      "title": "Bridging the gap: leveraging implementation science to advance pediatric behavioral sleep interventions.",
+      "date": "2023 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36722616/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:36613199",
+      "title": "Barriers to Optimal Child Sleep among Families with Low Income: A Mixed-Methods Study to Inform Intervention Development.",
+      "date": "2023 Jan 3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36613199/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:36414853",
+      "title": "Randomised Controlled Trial of a Behavioural Sleep Intervention, 'Sleeping Sound', for Autistic Children: 12-Month Outcomes and Moderators of Treatment.",
+      "date": "2024 Feb",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36414853/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:36316716",
+      "title": "Can a parental sleep intervention in an individual setting improve the maternal and paternal sense of competence and parent-child interaction in parents of young sleep-disturbed children? findings from a single-arm pilot intervention study.",
+      "date": "2022 Oct 31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36316716/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:36207683",
+      "title": "A single-arm pilot study: can a parental sleep intervention for sleep-disturbed young children in individual settings improve children's sleep, crying, eating, and parental distress in mothers and fathers?",
+      "date": "2022 Oct 7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36207683/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:35871972",
+      "title": "Acceptability and feasibility of a brief behavioral sleep intervention for youth with CF.",
+      "date": "2023 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35871972/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:35596587",
+      "title": "Clinical and behavioral attributes leading to sleep disorders in children on the autism spectrum.",
+      "date": "2022 Jul",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35596587/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:35285017",
+      "title": "Sleeping Sound Autism Spectrum Disorder (ASD): a randomised controlled trial of a brief behavioural sleep intervention in primary school-aged autistic children.",
+      "date": "2022 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35285017/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:35115855",
+      "title": "Child Sleep Problems Affect Mothers and Fathers Differently: How Infant and Young Child Sleep Affects Paternal and Maternal Sleep Quality, Emotion Regulation, and Sleep-Related Cognitions.",
+      "date": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35115855/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:34910624",
+      "title": "Sleep Well! An adapted behavioral sleep intervention implemented in urban primary care.",
+      "date": "2022 Apr 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34910624/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:36381521",
+      "title": "Sleep problem screening of young children by speech-language pathologists: A mixed-methods feasibility study.",
+      "date": "2021 Jan-Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36381521/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:34001454",
+      "title": "A brief clinician training program to manage sleep problems in ADHD: what works and what do clinicians and parents think?",
+      "date": "2022 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34001454/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:33971013",
+      "title": "Associations between brain structure and sleep patterns across adolescent development.",
+      "date": "2021 Oct 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33971013/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:33900626",
+      "title": "Maternal lack of sleep in the first two years after childbirth: Perceived impacts and help-seeking behaviors.",
+      "date": "2021 May",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33900626/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:32770791",
+      "title": "Sleep Well Be Well: Pilot of a digital intervention to improve child behavioural sleep problems.",
+      "date": "2021 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32770791/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:32530772",
+      "title": "Parental perspectives on care for sleep in children with cerebral palsy: a wake-up call.",
+      "date": "2022 Feb",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32530772/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:32430496",
+      "title": "Early Childhood Sleep Intervention in Urban Primary Care: Caregiver and Clinician Perspectives.",
+      "date": "2020 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32430496/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:32005338",
+      "title": "A Review of Pediatric Nonpharmacological Sleep Interventions: Effects on Sleep, Secondary Outcomes, and Populations With Co-occurring Mental Health Conditions.",
+      "date": "2020 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32005338/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:31748288",
+      "title": "Sleeping sound with autism spectrum disorder (ASD): study protocol for an efficacy randomised controlled trial of a tailored brief behavioural sleep intervention for ASD.",
+      "date": "2019 Nov 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31748288/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:31621416",
+      "title": "Promoting Independent Sleep Onset in Young Children: Examination of the Excuse Me Drill.",
+      "date": "2020 Nov-Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31621416/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:31450118",
+      "title": "Diversity in pediatric behavioral sleep intervention studies.",
+      "date": "2019 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31450118/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:31184382",
+      "title": "Impact of a behavioral intervention, delivered by pediatricians or psychologists, on sleep problems in children with ADHD: a cluster-randomized, translational trial.",
+      "date": "2019 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31184382/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:29757013",
+      "title": "Impact of a Behavioral Sleep Intervention on New School Entrants' Social Emotional Functioning and Sleep: A Translational Randomized Trial.",
+      "date": "2019 Nov-Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29757013/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:28083466",
+      "title": "Evaluation of an Ecologically Valid Group Intervention to Address Sleep Health in Families of Children With Allergic Diseases.",
+      "date": "2016 Jun",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28083466/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:27655457",
+      "title": "Discussion of Extinction-Based Behavioral Sleep Interventions for Young Children and Reasons Why Parents May Find Them Difficult.",
+      "date": "2016 Nov 15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27655457/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:27417246",
+      "title": "Resistance to Cry Intensive Sleep Intervention in Young Children: Are We Ignoring Children's Cries or Parental Concerns?",
+      "date": "2016 May 10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27417246/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:26163054",
+      "title": "Sleep in pediatric primary care: A review of the literature.",
+      "date": "2016 Feb",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26163054/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:24165031",
+      "title": "Sleep well--be well study: improving school transition by improving child sleep: a translational randomised trial.",
+      "date": "2013 Oct 28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24165031/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:23050860",
+      "title": "Non-pharmacological sleep interventions for youth with chronic health conditions: a critical review of the methodological quality of the evidence.",
+      "date": "2013 Jul",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23050860/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:22748447",
+      "title": "Outcomes at six years of age for children with infant sleep problems: longitudinal community-based study.",
+      "date": "2012 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22748447/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:22005602",
+      "title": "Managing sleep problems in school aged children with ADHD: a pilot randomised controlled trial.",
+      "date": "2011 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22005602/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:21890825",
+      "title": "A brief sleep intervention improves outcomes in the school entry year: a randomized controlled trial.",
+      "date": "2011 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21890825/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:21192797",
+      "title": "Study protocol: the sleeping sound with attention-deficit/hyperactivity disorder project.",
+      "date": "2010 Dec 30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21192797/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:17252893",
+      "title": "Parenting advice books about child sleep: cosleeping and crying it out.",
+      "date": "2006 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17252893/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:12612272",
+      "title": "Outcomes of infant sleep problems: a longitudinal study of sleep, behavior, and maternal well-being.",
+      "date": "2003 Mar",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12612272/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42922545",
+      "title": "The Infant Brainstem - A Multimodal Multiscale Postmortem Imaging Pipeline.",
+      "date": "2026 Sep 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42922545/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42893707",
+      "title": "Antagonizing central GABA(A) and adenosine receptors reverses the autoresuscitation defects caused by reduced brainstem serotonin.",
+      "date": "2026 Oct 18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42893707/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:30000647",
+      "title": "Cannabis.",
+      "date": "2006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30000647/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42874418",
+      "title": "Exploring infant safe sleep practices and sleep arrangement motivations in a South African sample.",
+      "date": "2026 Oct 13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42874418/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42862498",
+      "title": "Separating sleep environment from sleep position in histologic comparisons of sudden infant death syndrome.",
+      "date": "2026 Oct 12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862498/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42854787",
+      "title": "The parent bereavement questionnaire: A measure of grief severity and prolonged grief disorder for parents of young children.",
+      "date": "2026 Oct 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42854787/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42842986",
+      "title": "Deaths: Leading Causes for 2024.",
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842986/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42830985",
+      "title": "Authority Without Infrastructure: A Researcher's Experience With Specimen Access Barriers in Sudden Unexpected Infant Death Research.",
+      "date": "2026 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42830985/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42823627",
+      "title": "Safe Sleep Education Blitz: A Pre-Post Survey Study.",
+      "date": "2026 Oct 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42823627/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42813695",
+      "title": "Fetal and infant mortality in Norway: A steady rate of decline over time.",
+      "date": "2026 Sep 30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42813695/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42810612",
+      "title": "Inconsistency in Maternal Report of Infant Sleep Characteristics: Results from a National Survey and Implications for Sudden Unexpected Infant Death.",
+      "date": "2026 Sep 29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42810612/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42743596",
+      "title": "Toxicological analysis in sudden infant death syndrome: A call for.",
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42743596/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42726388",
+      "title": "Oronasal blood, intrathoracic petechiae and pulmonary hemorrhages differentiate prone separate-bed from bed-sharing SIDS cases.",
+      "date": "2026 Sep 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726388/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42718795",
+      "title": "Diagnostic challenges in infant death associated with maternal cocaine abuse during pregnancy and lactation: a forensic case report and review of the literature.",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42718795/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42693684",
+      "title": "Nicotine Exposure During Gestation: From Placental Dysfunction to Long-Term Neurobehavioral Outcomes.",
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42693684/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42684701",
+      "title": "Perinatal Depression and Infant Mortality.",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42684701/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42669868",
+      "title": "Stability-enhanced liposomal system co-loaded with γ-aminobutyric acid and naringenin: outstanding sleep-promoting efficacy.",
+      "date": "2026 Aug 30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42669868/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42664634",
+      "title": "Impact of prone positioning on sleep and respiratory outcomes by polysomnography in Robin Infants: a cross-sectional study.",
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42664634/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:30969722",
+      "title": "Routine Newborn Care.",
+      "date": "2026 Jan",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30969722/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42645175",
+      "title": "Role of Astrocytes in Central Respiratory Control.",
+      "date": "2026 Aug 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42645175/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42639689",
+      "title": "Understanding Parental Behaviours Related to Infant Sleep Environment: A Qualitative Study.",
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42639689/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42639536",
+      "title": "Prevalence and Determinants of Bed-Sharing Among Infants and Toddlers in Jeddah, Saudi Arabia: A Cross-Sectional Study.",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42639536/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42623548",
+      "title": "Expectant and New Mothers' Use of Facebook Private Groups to Learn About Infant Sleep and Feeding Practices: Descriptive Qualitative Study.",
+      "date": "2026 Aug 20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42623548/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42620364",
+      "title": "Unmasking immunodeficiency in sudden infant deaths: no evidence of hidden immune disorders.",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42620364/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42606723",
+      "title": "A narrative review of sudden infant death syndrome: pathophysiology, risk factors, and prevention.",
+      "date": "2026 Aug 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42606723/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42593082",
+      "title": "Advancing the bacterial hypothesis of sudden infant death syndrome and sudden unexplained death in childhood: evidence that prone sleeping position elevates bacterial titres in the anterior nares.",
+      "date": "2026 Sep 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42593082/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42591739",
+      "title": "Global trends, projections, and inequalities in neonatal sudden infant death syndrome mortality attributable to risk factors from 1990 to 2021.",
+      "date": "2026 Jul 31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42591739/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42582613",
+      "title": "Reimagining Safe Sleep: Using Participant-Generated Photography and Community Insight to Address Infant Mortality Inequities in New York City.",
+      "date": "2026 Jan-Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42582613/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42565431",
+      "title": "Present or absent: risks and protective factors of sudden infant death syndrome (SIDS) in the Zambian context.",
+      "date": "2026 Aug 7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42565431/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42558827",
+      "title": "Evaluating a neonatal public health education and empowerment programme to reduce infant mortality risks: insights from parents and facilitators in the midlands, UK.",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42558827/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42553534",
+      "title": "An Evaluation of Community-Based Educational Programming for Prevention of Infant Mortality Among African Americans.",
+      "date": "2026 Jan-Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42553534/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42549357",
+      "title": "Reconsidering the Complex Role of Inflammation in Sudden Infant Death Syndrome.",
+      "date": "2026 Jul",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42549357/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42535173",
+      "title": "An Initiative to Prevent Newborn Drops through the Implementation of a Prevention Bundle at a Children's Hospital.",
+      "date": "2026 Jul-Aug",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42535173/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42521145",
+      "title": "Safe Sleep Education Across Healthcare Settings: A Systematic Review of Delivery, Content, and Outcomes.",
+      "date": "2026 Sep-Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521145/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42508099",
+      "title": "Sudden infant and fetal death: comparative analysis of international legislation and medico-legal issues.",
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42508099/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42507465",
+      "title": "Infant Mortality in the United States, 2024: Data From the Period Linked Birth/Infant Death File.",
+      "date": "2026 Jun",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42507465/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42448223",
+      "title": "How Correct is Artificial Intelligence for Infant Safe Sleep Advice? Evaluating Accuracy of ChatGPT, Gemini, and Claude Against American Academy of Pediatrics' Guidelines.",
+      "date": "2026 Sep-Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42448223/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:30000646",
+      "title": "Nicotine.",
+      "date": "2006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30000646/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42444072",
+      "title": "Sudden Unexpected Postnatal Collapse: A Retrospective Cohort Study Describing Incidence, Risk Factors and Role of Perinatal Transition.",
+      "date": "2026 Jul 13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42444072/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42441360",
+      "title": "A Qualitative Evaluation of Infant Safe Sleep Following Free Crib Provision.",
+      "date": "2026 May-Jun",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42441360/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42418065",
+      "title": "[Changed profile of requirements in pediatric prehospital emergency care-a retrospective analysis of the Karlsruhe pediatric ambulance service].",
+      "date": "2026 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42418065/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42405008",
+      "title": "Sally Clark: Trial and error by Judge and Jury.",
+      "date": "2026 Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42405008/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42343202",
+      "title": "Aetiology-dependent short- and long-term survival after paediatric out-of-hospital cardiac arrest: a multicentre, retrospective, cohort study.",
+      "date": "2026 Jun 24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42343202/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42332249",
+      "title": "A quest for a histaminergic or orexinergic biomarker for sudden infant death syndrome.",
+      "date": "2026 Jun 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42332249/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42331484",
+      "title": "Safe Sleep, Safe Flight: A Fatigue-Readiness Framework for Air Medical Operations.",
+      "date": "2026 Jul-Aug",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42331484/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42304324",
+      "title": "Exploring infant safe sleeping practice in a multicultural setting: findings from the maternal and infant health monitoring system in Abu Dhabi.",
+      "date": "2026 Jun 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42304324/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42302867",
+      "title": "Spatiotemporal analysis of sudden infant death syndrome incidence in Korea, 2013-2023.",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42302867/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42297410",
+      "title": "2025 Korean Guidelines for Cardiopulmonary Resuscitation: Part 7. Pediatric basic life support.",
+      "date": "2026 May",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42297410/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42279599",
+      "title": "Hidden and Under-Recognized Causes of Sudden Unexpected Death in Infancy (SUDI): A Comprehensive Review of Autopsy Findings.",
+      "date": "2026 Jun 4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42279599/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42274943",
+      "title": "A Decade of Empowerment: Strengthening Safe Sleep Awareness Among Black Birthing People.",
+      "date": "2026 Jun 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42274943/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42255778",
+      "title": "Mammalian Diving Response in Humans: Inconsistently Beneficial for Survival.",
+      "date": "2026 May",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42255778/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42251491",
+      "title": "Engaging the multi-agency workforce in targeted prevention of sudden unexpected infant deaths (SUDI): implementing Eyes on the Baby.",
+      "date": "2026 Jun 6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42251491/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42237554",
+      "title": "Caregiver lived experiences attempting to follow safe sleep recommendations to sleep their baby in a cot: a qualitative directed content analysis.",
+      "date": "2026 Jun 4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42237554/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42214449",
+      "title": "Experiences of Postpartum Fatigue Among Vietnamese American Women.",
+      "date": "2026 May 30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42214449/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42196581",
+      "title": "A Case of Sudden Unexpected Infant Death with Presumptive SARS-CoV-2 Infection.",
+      "date": "2026 May 20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42196581/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42171446",
+      "title": "Prevalence and Temporal Trends of Deformational Plagiocephaly and Brachycephaly in Finland: A Population-Based Register Study.",
+      "date": "2026 May 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42171446/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42170192",
+      "title": "Forensic neuropathology: 2026 update.",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42170192/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42135984",
+      "title": "Current Practices in Postmortem Investigation of Sudden Unexpected Death in Infancy.",
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42135984/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42110082",
+      "title": "Racial and Socioeconomic Disparities in Sudden Unexpected Infant Death in the United States: A Population-Based Analysis Using Linked Birth-Infant Death Data.",
+      "date": "2026 Apr",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42110082/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42058942",
+      "title": "First-Year Mortality in Infants Born Moderately Preterm and Late Preterm: A National Register Study.",
+      "date": "2026 Jun",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42058942/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42047799",
+      "title": "Molecular mechanisms of sudden unexplained death and recent updates on molecular autopsy strategies for forensic investigation.",
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42047799/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42021196",
+      "title": "Delivering safe sleep and breastfeeding education to pregnant and new mothers through private Facebook groups: study protocol for a 4-armed randomized controlled trial.",
+      "date": "2026 Apr 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42021196/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:42004829",
+      "title": "Magnitude of Premature Mortality From Sudden Infant Death Syndrome in Ethiopia, From 1990 to 2023.",
+      "date": "2026 Jan-Dec",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42004829/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:41957252",
+      "title": "Forgotten muscle: diaphragm and sudden infant death syndrome.",
+      "date": "2026 Apr",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41957252/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:41950602",
+      "title": "Nursing insights into how maternal anxiety bridges sudden infant death syndrome awareness and parenting self-efficacy among mothers of infants.",
+      "date": "2026 Jul-Aug",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41950602/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:41945914",
+      "title": "Maternal Knowledge of Sudden Infant Death Syndrome Prevention in the Immediate Postpartum Period: Sociodemographic Disparities.",
+      "date": "2026 Apr 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41945914/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:41938322",
+      "title": "Improving Compliance With Safe Sleep Guidelines for Vulnerable Patients in a Community Safety Net Hospital Neonatal Intensive Care Unit.",
+      "date": "2026 Mar-Apr",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41938322/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:41918894",
+      "title": "Feasibility of a pilot randomized controlled trial on cranial remolding orthosis for severe deformational plagiocephaly.",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41918894/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:41887098",
+      "title": "Clarifying Selected Citations and Interpretations in 'Underage deaths associated with substance-related harm in Taiwan: A national 10-year study'.",
+      "date": "2026 Jul",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41887098/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:41851818",
+      "title": "Differences in heart DNA methylation between sudden infant death syndrome and other sudden deaths.",
+      "date": "2026 Mar 18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41851818/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:41819564",
+      "title": "Maternal adherence to safe infant sleep recommendations in the USA: trends and disparities from PRAMS 2016-2022.",
+      "date": "2026 Mar 12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41819564/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:41814244",
+      "title": "Get Social Media and Risk-Reduction Training (GET SMART) to improve infant safe sleep practices through a mobile text message-delivered video safe sleep intervention for new parents: study protocol for a type 3 hybrid implementation-effectiveness cluster randomized trial in 20 US birth hospitals.",
+      "date": "2026 Mar 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41814244/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:41796078",
+      "title": "Neuropathologic findings and age-related differences in Finnish pediatric medico-legal autopsies.",
+      "date": "2026 May",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41796078/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT01554111",
+      "title": "Comparing Bowel Preparation Regimens for Flexible Sigmoidoscopy",
+      "date": "2012-03-01",
+      "url": "https://clinicaltrials.gov/study/NCT01554111",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03627767",
+      "title": "Study to Investigate Efficacy and Safety of PF-04965842 in Subjects Aged 12 Years and Over With Moderate to Severe Atopic Dermatitis With the Option of Rescue Treatment in Flaring Subjects",
+      "date": "2018-05-29",
+      "url": "https://clinicaltrials.gov/study/NCT03627767",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06915428",
+      "title": "Personalized Care for Prenatal Stress Reduction & Prevention of Preterm Birth (PTB) Disparities",
+      "date": "2025-02-25",
+      "url": "https://clinicaltrials.gov/study/NCT06915428",
+      "status": "NOT_YET_RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT01033565",
+      "title": "Melatonin CR for the Treatment of Impaired Sleep Maintenance in 4-8 Year Old Children With Autism Spectrum Disorders",
+      "date": "2009-12-14",
+      "url": "https://clinicaltrials.gov/study/NCT01033565",
+      "status": "TERMINATED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT01562236",
+      "title": "Gender-specific aEEGs and Outcome in Preterms",
+      "date": "2012-03-22",
+      "url": "https://clinicaltrials.gov/study/NCT01562236",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT00474539",
+      "title": "Study Evaluating a 13-Valent Pneumococcal Conjugate Vaccine in Healthy Infants",
+      "date": "2007-05-15",
+      "url": "https://clinicaltrials.gov/study/NCT00474539",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT05514054",
+      "title": "A Study of Imlunestrant Versus Standard Endocrine Therapy in Participants With Early Breast Cancer",
+      "date": "2022-08-23",
+      "url": "https://clinicaltrials.gov/study/NCT05514054",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT02896751",
+      "title": "Use of a 3D Printer to Make Custom Sleep Masks for Positive Airway Pressure Treatment",
+      "date": "2016-09-07",
+      "url": "https://clinicaltrials.gov/study/NCT02896751",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT04327557",
+      "title": "Childbirth Education Pilot Study",
+      "date": "2020-03-26",
+      "url": "https://clinicaltrials.gov/study/NCT04327557",
+      "status": "SUSPENDED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT01721512",
+      "title": "The Growth and Development of Breast and Formula Fed Term Asian Infants",
+      "date": "2012-11-01",
+      "url": "https://clinicaltrials.gov/study/NCT01721512",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07656467",
+      "title": "The Impact of Masseter Muscle Thickness on the Feeding Process in Preterm Infants in Ultrasound Assessment",
+      "date": "2026-06-08",
+      "url": "https://clinicaltrials.gov/study/NCT07656467",
+      "status": "ENROLLING_BY_INVITATION",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT02743663",
+      "title": "The Development of Novel Clinical Tests to Diagnose and Monitor Asthma in Preschool Children",
+      "date": "2016-01-13",
+      "url": "https://clinicaltrials.gov/study/NCT02743663",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT05031793",
+      "title": "Establishing the Collaborative Care Model for Pediatric Allergic Rhinitis With Sleep Disorder",
+      "date": "2018-05-16",
+      "url": "https://clinicaltrials.gov/study/NCT05031793",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT05369143",
+      "title": "The Effects of Chiropractic Care and Children With Subclinical Spinal Pain",
+      "date": "2022-04-26",
+      "url": "https://clinicaltrials.gov/study/NCT05369143",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT04000399",
+      "title": "BRITEPath, Component 3 of iCHART (Integrated Care to Help At-Risk Teens)",
+      "date": "2019-06-24",
+      "url": "https://clinicaltrials.gov/study/NCT04000399",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT00303316",
+      "title": "Immunogenicity Study of Antibody Persistence and Booster Effect of PENTAXIM™ at 18 Months in Healthy Argentinean Infants",
+      "date": "2006-03-13",
+      "url": "https://clinicaltrials.gov/study/NCT00303316",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03722706",
+      "title": "Improving Therapeutic Patient Education for Atopic Dermatitis: Evaluation of a Parent Handbook",
+      "date": "2018-10-25",
+      "url": "https://clinicaltrials.gov/study/NCT03722706",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT01280084",
+      "title": "Labour Analgesia and Movement in Babies",
+      "date": "2011-01-18",
+      "url": "https://clinicaltrials.gov/study/NCT01280084",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03361371",
+      "title": "Suctioning of NOse Therapy in Bronchiolitis",
+      "date": "2017-11-21",
+      "url": "https://clinicaltrials.gov/study/NCT03361371",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03530371",
+      "title": "Intranasal Dexmedetomidine for Sedated Hearing Testing",
+      "date": "2018-05-04",
+      "url": "https://clinicaltrials.gov/study/NCT03530371",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07572734",
+      "title": "Impact of a Paced Breathing Exercise Intervention on Autonomic Nervous System Function After Pediatric Concussion (Acute Phase)",
+      "date": "2026-05-01",
+      "url": "https://clinicaltrials.gov/study/NCT07572734",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07420504",
+      "title": "A Longitudinal Study of Parental Sleep Intervention for Behavioral Insomnia in Early Childhood",
+      "date": "2026-02-04",
+      "url": "https://clinicaltrials.gov/study/NCT07420504",
+      "status": "NOT_YET_RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06047808",
+      "title": "Feasibility Study of the Storytelling Through Music Intervention with Bereaved Parents",
+      "date": "2023-06-06",
+      "url": "https://clinicaltrials.gov/study/NCT06047808",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT05397808",
+      "title": "Effects of Pilates Exercises on Postpartum",
+      "date": "2022-05-26",
+      "url": "https://clinicaltrials.gov/study/NCT05397808",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT02395185",
+      "title": "A Randomized Controlled Trial of Three Non-pharmacologic Analgesic Techniques for Casting of Clubfoot Infants",
+      "date": "2015-03-16",
+      "url": "https://clinicaltrials.gov/study/NCT02395185",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06380426",
+      "title": "A Multicenter Pharmacoepidemiological Cohort on Real Life Use of Semaglutide in Adolescents or Adults With Monogenic Obesity",
+      "date": "2024-04-11",
+      "url": "https://clinicaltrials.gov/study/NCT06380426",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07780123",
+      "title": "Nurture by Nature Feasibility Study",
+      "date": "2026-08-12",
+      "url": "https://clinicaltrials.gov/study/NCT07780123",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03952559",
+      "title": "A Study of Baricitinib (LY3009104) in Children and Adolescents With Atopic Dermatitis",
+      "date": "2019-05-15",
+      "url": "https://clinicaltrials.gov/study/NCT03952559",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07693179",
+      "title": "Assessment of Prolonged Pain in Infants With Excessive Crying: Contribution of Infrared Thermal Imaging - The NEOTHERM Pilot Study",
+      "date": "2026-06-17",
+      "url": "https://clinicaltrials.gov/study/NCT07693179",
+      "status": "NOT_YET_RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT05310396",
+      "title": "Efficacy of a Nutrient Blend in Improving Neurocognitive and Behavioral Outcomes in Infants: a Randomized, Controlled, Intervention Study",
+      "date": "2022-01-04",
+      "url": "https://clinicaltrials.gov/study/NCT05310396",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03050840",
+      "title": "Gamification and Energetic Behavior Changes",
+      "date": "2017-02-09",
+      "url": "https://clinicaltrials.gov/study/NCT03050840",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT02134782",
+      "title": "Yoga Fatigue Study",
+      "date": "2014-05-06",
+      "url": "https://clinicaltrials.gov/study/NCT02134782",
+      "status": "TERMINATED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT02475096",
+      "title": "Internet-delivered CBT for Children With Functional Gastrointestinal Disorders - an Open Pilot Study",
+      "date": "2015-06-15",
+      "url": "https://clinicaltrials.gov/study/NCT02475096",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06750796",
+      "title": "The Half Swaddling Application on Infant Sleep Routine, Maternal Sleep Quality, Depression",
+      "date": "2024-11-19",
+      "url": "https://clinicaltrials.gov/study/NCT06750796",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07672418",
+      "title": "Postoperative Pain After Pediatric Adenotonsillectomy With Ketorolac or Ibuprofen",
+      "date": "2026-06-23",
+      "url": "https://clinicaltrials.gov/study/NCT07672418",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07792096",
+      "title": "An Adaptive Platform Trial for Evaluation of Novel Treatment Regimens in Children and Adolescents With HIV in Africa",
+      "date": "2026-07-29",
+      "url": "https://clinicaltrials.gov/study/NCT07792096",
+      "status": "NOT_YET_RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT01081132",
+      "title": "Dose-optimization in Adolescents Aged 13-17 Diagnosed With Attention-deficit/Hyperactivity Disorder (ADHD) Using Extended-release Guanfacine HCl",
+      "date": "2010-03-03",
+      "url": "https://clinicaltrials.gov/study/NCT01081132",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT05800509",
+      "title": "Gestational Diabetes and Perinatal Depression: an Intervention Program",
+      "date": "2023-02-07",
+      "url": "https://clinicaltrials.gov/study/NCT05800509",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03084432",
+      "title": "Effect of Caffeine on Preterm Infants' Bone Mineral Content",
+      "date": "2017-03-10",
+      "url": "https://clinicaltrials.gov/study/NCT03084432",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT01954264",
+      "title": "Epidemiology Study of Malaria Transmission Intensity in Sub-Saharan Africa",
+      "date": "2013-09-19",
+      "url": "https://clinicaltrials.gov/study/NCT01954264",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT02974309",
+      "title": "Family Routines Enhancing Adolescent Diabetes by Optimizing Management",
+      "date": "2016-04-27",
+      "url": "https://clinicaltrials.gov/study/NCT02974309",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06691932",
+      "title": "At-the-Breast vs. Expressed Human Milk: Genesis of Infant Nutrition (BEGIN)",
+      "date": "2024-11-13",
+      "url": "https://clinicaltrials.gov/study/NCT06691932",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06909058",
+      "title": "Postoperative Restrictions for Patients Undergoing Minimally Invasive Gynecologic Procedures",
+      "date": "2025-03-27",
+      "url": "https://clinicaltrials.gov/study/NCT06909058",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06424691",
+      "title": "Infant Restore: Efficacy of Microbiome Analysis and Education",
+      "date": "2024-05-16",
+      "url": "https://clinicaltrials.gov/study/NCT06424691",
+      "status": "UNKNOWN",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT00787397",
+      "title": "Sleep, Mood, and Behavior Study",
+      "date": "2008-11-05",
+      "url": "https://clinicaltrials.gov/study/NCT00787397",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT04534335",
+      "title": "SNOO Smart Sleeper for Infants With CHD",
+      "date": "2020-08-27",
+      "url": "https://clinicaltrials.gov/study/NCT04534335",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT05554991",
+      "title": "Human Milk Oligosaccharide (HMO) Supplementation in Colic Management",
+      "date": "2022-03-28",
+      "url": "https://clinicaltrials.gov/study/NCT05554991",
+      "status": "TERMINATED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03550313",
+      "title": "Study to Evaluate the Safety and Immunogenicity of a Multivalent Pneumococcal Vaccine Given With Prevnar 13 in Healthy Infants",
+      "date": "2018-05-25",
+      "url": "https://clinicaltrials.gov/study/NCT03550313",
+      "status": "TERMINATED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03573713",
+      "title": "Decreasing Stunting by Reducing Maternal Depression in Uganda: A Cluster Randomized Controlled Trial (CRCT) for Improved Nutrition Outcomes",
+      "date": "2018-03-15",
+      "url": "https://clinicaltrials.gov/study/NCT03573713",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03234959",
+      "title": "CareToy Early Intervention in Infants at Risk for Cerebral Palsy",
+      "date": "2017-07-27",
+      "url": "https://clinicaltrials.gov/study/NCT03234959",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06918821",
+      "title": "Reducing Obesity Through Play Among Toddlers: Tiny Steps to Health (TSHS) Study",
+      "date": "2025-03-19",
+      "url": "https://clinicaltrials.gov/study/NCT06918821",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06305052",
+      "title": "Effects of Olfactory and Gustatory Stimulus on the Nutrition of Premature Babies",
+      "date": "2024-02-09",
+      "url": "https://clinicaltrials.gov/study/NCT06305052",
+      "status": "UNKNOWN",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07120646",
+      "title": "Pain and Sleep Disturbances in Children Living Beyond Cancer: A Case-Control Study",
+      "date": "2025-06-26",
+      "url": "https://clinicaltrials.gov/study/NCT07120646",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT04721691",
+      "title": "Efficacy of Epidiolex in Patients With Electrical Status Epilepticus of Sleep (ESES).",
+      "date": "2020-09-24",
+      "url": "https://clinicaltrials.gov/study/NCT04721691",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT04946201",
+      "title": "Premolar Extractions for Obstructive Sleep Apnea in Children With Overjet",
+      "date": "2021-06-22",
+      "url": "https://clinicaltrials.gov/study/NCT04946201",
+      "status": "SUSPENDED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06240832",
+      "title": "Aerobic Capacity Muscle Strength and Health Related Quality of Life in Children With Chronic Liver Disease",
+      "date": "2024-01-07",
+      "url": "https://clinicaltrials.gov/study/NCT06240832",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03809598",
+      "title": "Roo Study on Mom and Baby Well-Being",
+      "date": "2019-01-09",
+      "url": "https://clinicaltrials.gov/study/NCT03809598",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT04358146",
+      "title": "Study on the Efficacy and Tolerance of a New Anti-regurgitation Infant Formula (STELLAR)",
+      "date": "2020-04-21",
+      "url": "https://clinicaltrials.gov/study/NCT04358146",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06775405",
+      "title": "A Study to Confirm the Effectiveness and Safety of AK0529 in Treating RSV Infections in Hospitalized Infants",
+      "date": "2024-12-16",
+      "url": "https://clinicaltrials.gov/study/NCT06775405",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03178331",
+      "title": "Who Benefit From School Doctors' Health Checks?",
+      "date": "2017-05-29",
+      "url": "https://clinicaltrials.gov/study/NCT03178331",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06745570",
+      "title": "Improving Sleep, Decision-Making, and Eating in Adolescents With Obesity",
+      "date": "2024-12-09",
+      "url": "https://clinicaltrials.gov/study/NCT06745570",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06093477",
+      "title": "Studying Melatonin and Recovery in Teens",
+      "date": "2023-10-09",
+      "url": "https://clinicaltrials.gov/study/NCT06093477",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06144957",
+      "title": "SLC13A5 Deficiency Natural History Study - United States Only",
+      "date": "2022-01-07",
+      "url": "https://clinicaltrials.gov/study/NCT06144957",
+      "status": "ENROLLING_BY_INVITATION",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT02947464",
+      "title": "Rapid Maxillary Expansion for Residual Pediatric",
+      "date": "2016-10-24",
+      "url": "https://clinicaltrials.gov/study/NCT02947464",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07864493",
+      "title": "Recorded Parent/Caregiver Voice for Infants With Neonatal Opioid Withdrawal Syndrome",
+      "date": "2026-09-28",
+      "url": "https://clinicaltrials.gov/study/NCT07864493",
+      "status": "NOT_YET_RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07266506",
+      "title": "Development of an Eating Behavior Risk Score",
+      "date": "2025-11-17",
+      "url": "https://clinicaltrials.gov/study/NCT07266506",
+      "status": "NOT_YET_RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03521284",
+      "title": "Health Education in the Perinatal Period",
+      "date": "2018-03-02",
+      "url": "https://clinicaltrials.gov/study/NCT03521284",
+      "status": "UNKNOWN",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03572933",
+      "title": "Study of Adjunctive Ganaxolone Treatment in Children and Young Adults With CDKL5 Deficiency Disorder",
+      "date": "2018-06-19",
+      "url": "https://clinicaltrials.gov/study/NCT03572933",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT01495793",
+      "title": "Dose Escalating Study of Rotigotine in Pediatric Subjects With Restless Legs Syndrome",
+      "date": "2011-12-16",
+      "url": "https://clinicaltrials.gov/study/NCT01495793",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT02039284",
+      "title": "Efficacy of New Protocols in the Treatment of Upper Limb Dysfunctions in Patients With Cerebral Palsy",
+      "date": "2013-09-18",
+      "url": "https://clinicaltrials.gov/study/NCT02039284",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT04341194",
+      "title": "Parents as Pain Management in Swedish Neonatal Care",
+      "date": "2020-04-06",
+      "url": "https://clinicaltrials.gov/study/NCT04341194",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07373275",
+      "title": "Adolescent Lifestyle Medicine Headache Study",
+      "date": "2025-12-17",
+      "url": "https://clinicaltrials.gov/study/NCT07373275",
+      "status": "ENROLLING_BY_INVITATION",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT04498416",
+      "title": "CoCo-20: a Longitudinal Follow-up Study of the French Paediatric Population During and After the Coronavirus Pandemic COVID-19",
+      "date": "2020-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT04498416",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT05687916",
+      "title": "A Study of TAK-861 in Participants With Narcolepsy Type 2",
+      "date": "2023-01-09",
+      "url": "https://clinicaltrials.gov/study/NCT05687916",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT00347334",
+      "title": "Is Home Positioning Time Associated With Torticollis Rate of Recovery?",
+      "date": "2006-06-29",
+      "url": "https://clinicaltrials.gov/study/NCT00347334",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT05153109",
+      "title": "Reliabilty and Validity of a Diagnostic Interview for Parents of Babies and Preescholers",
+      "date": "2021-11-29",
+      "url": "https://clinicaltrials.gov/study/NCT05153109",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03795363",
+      "title": "Orkambi Treatment in 2 to 5 Year Old Children With CF",
+      "date": "2018-12-28",
+      "url": "https://clinicaltrials.gov/study/NCT03795363",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06218186",
+      "title": "Assessing the Performance of Wesper Lab for Sleep Apnea Diagnosis in Pediatric Populations",
+      "date": "2024-01-11",
+      "url": "https://clinicaltrials.gov/study/NCT06218186",
+      "status": "UNKNOWN",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT05714956",
+      "title": "Pilot Study of Mothers and Babies Online in Home Visiting",
+      "date": "2023-01-25",
+      "url": "https://clinicaltrials.gov/study/NCT05714956",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06035939",
+      "title": "SMYLS Multi-site Trial",
+      "date": "2023-08-29",
+      "url": "https://clinicaltrials.gov/study/NCT06035939",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT00107796",
+      "title": "Study of PROVIGIL ® (Modafinil) Treatment in Children and Adolescents With Excessive Sleepiness Associated With Narcolepsy",
+      "date": "2005-04-08",
+      "url": "https://clinicaltrials.gov/study/NCT00107796",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03567473",
+      "title": "Bronchiolitis in Infants Placebo Versus Epinephrine and Dexamethasone Study",
+      "date": "2018-06-13",
+      "url": "https://clinicaltrials.gov/study/NCT03567473",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03685266",
+      "title": "Efficiency of Task Switching and Multi-tasking",
+      "date": "2016-05-17",
+      "url": "https://clinicaltrials.gov/study/NCT03685266",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT05844423",
+      "title": "Safety, Tolerability, and Immunogenicity of a 24-Valent Pneumococcal Conjugate Vaccine (VAX-24) in Healthy Infants",
+      "date": "2023-04-24",
+      "url": "https://clinicaltrials.gov/study/NCT05844423",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03405246",
+      "title": "KIDFIT: Keeping Ideal Cardiovascular Health Family Intervention Trial",
+      "date": "2018-01-12",
+      "url": "https://clinicaltrials.gov/study/NCT03405246",
+      "status": "UNKNOWN",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT00452790",
+      "title": "Study Evaluating 13-valent Pneumococcal Conjugate Vaccine in Healthy Infants in India",
+      "date": "2007-03-23",
+      "url": "https://clinicaltrials.gov/study/NCT00452790",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT05687903",
+      "title": "A Study of TAK-861 in Participants With Narcolepsy Type 1",
+      "date": "2023-01-09",
+      "url": "https://clinicaltrials.gov/study/NCT05687903",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03694561",
+      "title": "Developing a Management Approach for Patients With \"Late-Onset\" Pompe Disease",
+      "date": "2018-10-01",
+      "url": "https://clinicaltrials.gov/study/NCT03694561",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07102524",
+      "title": "Intrathecal Gene Therapy For SLC13A5 Citrate Transporter Disorder",
+      "date": "2025-07-21",
+      "url": "https://clinicaltrials.gov/study/NCT07102524",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06032403",
+      "title": "Patient with Atopic Dermatitis' Needs for Self-management Support - Flexible Patient Centred Consultations",
+      "date": "2023-08-28",
+      "url": "https://clinicaltrials.gov/study/NCT06032403",
+      "status": "UNKNOWN",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT04791956",
+      "title": "Prebiotic EffecT InfanTs",
+      "date": "2021-03-05",
+      "url": "https://clinicaltrials.gov/study/NCT04791956",
+      "status": "UNKNOWN",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07270029",
+      "title": "Sensory Toys for Anxiety Reduction - Can Fidget Toys Improve Stress and Help Children to Cope Before Surgery (STARFISH)",
+      "date": "2025-11-13",
+      "url": "https://clinicaltrials.gov/study/NCT07270029",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06166680",
+      "title": "Tongue Muscular Assessment in Healthy Children",
+      "date": "2023-11-22",
+      "url": "https://clinicaltrials.gov/study/NCT06166680",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT02227979",
+      "title": "Effects of PURPLE Cry Intervention",
+      "date": "2014-08-26",
+      "url": "https://clinicaltrials.gov/study/NCT02227979",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT01302054",
+      "title": "A Clinical Study in Patients With Overactive Bladder With Leakage of Urine, to Find Out if the Medicine, Fesoterodine, Works in Those Patients Who Did Not Have Enough Response to the Medicine, Tolterodine.",
+      "date": "2011-02-18",
+      "url": "https://clinicaltrials.gov/study/NCT01302054",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT00518713",
+      "title": "Clobazam in Patients With Lennox-Gastaut Syndrome",
+      "date": "2007-08-20",
+      "url": "https://clinicaltrials.gov/study/NCT00518713",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07071324",
+      "title": "CF Wellness Program",
+      "date": "2025-07-08",
+      "url": "https://clinicaltrials.gov/study/NCT07071324",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT04936321",
+      "title": "Intervention for Sleep and Pain in Youth: A Randomized Controlled Trial",
+      "date": "2021-06-08",
+      "url": "https://clinicaltrials.gov/study/NCT04936321",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT05726708",
+      "title": "Impact of an E-Learning Coaching for Parents of Young Children With Autism",
+      "date": "2023-01-26",
+      "url": "https://clinicaltrials.gov/study/NCT05726708",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06370208",
+      "title": "Prophylactic Effect of Probiotic Streptococcus Salivarius eK12 Against Recurrent Streptococcus Pyogenes Pharyngotonsillitis Infection in Pediatrics",
+      "date": "2024-04-13",
+      "url": "https://clinicaltrials.gov/study/NCT06370208",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    }
+  ],
+  "errors": [],
+  "methodology": "Bibliographic metadata only; expert review required"
+}
