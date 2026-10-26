@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#153c49">
+<meta name="description" content="Uyku Akademi: 0–60 ay bilimsel bebek ve çocuk uyku eğitimi. Yaşa özel dersler, deneyler, tezler, kaynaklı veri grafikleri ve uygulama laboratuvarı.">
+<title>Uyku Akademi | Bilimsel Eğitim Kampüsü</title>
+<link rel="stylesheet" href="assets/akademi.css">
+<script src="assets/akademi.js" defer></script>
+</head>
+<body>
+<a href="#main" class="skip">Ana içeriğe geç</a>
+<header class="site-header">
+ <div class="header-inner">
+  <a class="brand" href="index.html" aria-label="Uyku Akademi ana sayfa"><span class="brand-emblem" aria-hidden="true">☾</span><span><strong>Uyku Akademi</strong><small>BİLİMSEL EĞİTİM KAMPÜSÜ</small></span></a>
+  <nav class="header-links" aria-label="Diğer sayfalar"><a href="index.html">Ana sayfa</a><a href="yas-egitimi.html">0–60 ay rehberi</a><a href="atlas.html">Grafik atlası</a><a href="danisma.html">Uyku danışma</a></nav>
+  <button class="mobile-menu btn-icon" id="menuToggle" type="button" aria-controls="sidePanel" aria-expanded="false" aria-label="Eğitim menüsünü aç">☰</button>
+ </div>
+</header>
+<div class="site-shell">
+ <aside class="sidebar" id="sidePanel">
+  <div class="sidebar-in">
+   <p class="eyebrow">KİŞİSEL ÖĞRENME PANELİ</p>
+   <label for="ageYears" class="field-label">Çocuğun yaşı</label>
+   <div class="age-inputs">
+    <span><select id="ageYears" aria-label="Yıl seçiniz"></select><small>Yıl</small></span>
+    <span><select id="ageMonths" aria-label="Ay seçiniz"></select><small>Ay</small></span>
+   </div>
+   <div class="age-result" id="ageSummary" aria-live="polite">Yaşınıza uygun dersler hazırlanıyor.</div>
+   <div class="progress-card">
+    <div class="between"><span>Öğrenme ilerlemesi</span><b id="progressText">0/12</b></div>
+    <div class="progress-track"><div id="progressFill"></div></div>
+    <small>Tamamlanan dersler yalnızca bu cihazda kaydedilir.</small>
+   </div>
+   <div class="side-nav" role="navigation" aria-label="Eğitim kampüsü bölümleri">
+    <p class="side-label">EĞİTİM MERKEZİ</p>
+    <button class="side-link active" data-view="home" type="button"><span class="nav-icon">◈</span> Genel bakış</button>
+    <button class="side-link" data-view="courses" type="button"><span class="nav-icon">▤</span> Kapsamlı dersler <span class="side-count">12</span></button>
+    <button class="side-link" data-view="age" type="button"><span class="nav-icon">◷</span> Yaşa özel uyku</button>
+    <p class="side-label">BİLİMSEL ARAŞTIRMA</p>
+    <button class="side-link" data-view="papers" type="button"><span class="nav-icon">▦</span> Makale ve deneyler</button>
+    <button class="side-link" data-view="theses" type="button"><span class="nav-icon">≋</span> Tez araştırmaları</button>
+    <button class="side-link" data-view="lab" type="button"><span class="nav-icon">⌁</span> Grafik laboratuvarı</button>
+    <p class="side-label">UYGULAMA</p>
+    <button class="side-link" data-view="cases" type="button"><span class="nav-icon">◇</span> Vaka atölyesi</button>
+    <button class="side-link" data-view="safety" type="button"><span class="nav-icon">✳</span> Güvenli uyku</button>
+    <button class="side-link" data-view="glossary" type="button"><span class="nav-icon">A–Z</span> Terimler sözlüğü</button>
+   </div>
+   <div class="sidebar-help"><b>Bilimsel şeffaflık</b><p>Ölçülmüş araştırma verileri, uzman önerileri ve öğretici örnekler birbirinden ayrı etiketlenir.</p><a href="#bilimsel-ilkeler" id="principlesLink">Nasıl çalışıyoruz? ↗</a></div>
+  </div>
+ </aside>
+ <main class="main" id="main" tabindex="-1">
+  <div class="topbar">
+   <div><span class="topbar-dot"></span> KANITA DAYALI ÖĞRENME <span class="topbar-sep">/</span> <span id="crumb">Genel bakış</span></div>
+   <div class="topbar-actions"><button type="button" id="printPage" class="text-action" title="Görünen bölümü yazdır">⎙ Yazdır</button><a class="text-action" href="https://github.com/Serdarza/uyku-akademi" target="_blank" rel="noopener noreferrer">Kaynak kod ↗</a></div>
+  </div>
+  <div id="content" aria-live="polite"></div>
+  <footer class="footer"><div><strong>Uyku Akademi</strong> · Bilimsel eğitim ve araştırma okuryazarlığı</div><p>Bilgilendirme amaçlıdır. Tıbbi tanı, tedavi veya bireysel hekim önerisinin yerine geçmez. Kaynaklar ve veri sınırlılıkları ders içinde açıklanır.</p><div class="footer-links"><a href="index.html">Ana sayfa</a><a href="makale-akademisi.html">Önceki araştırma kütüphanesi</a><a href="atlas.html">Bilimsel atlas</a></div></footer>
+ </main>
+</div>
+<div class="mobile-bottom" aria-label="Hızlı erişim">
+<button data-view="home" type="button">⌂ <span>Ana ekran</span></button>
+<button data-view="courses" type="button">▤ <span>Dersler</span></button>
+<button data-view="age" type="button">◷ <span>Yaşa göre</span></button>
+<button data-view="papers" type="button">▦ <span>Yayınlar</span></button>
+<button data-view="lab" type="button">⌁ <span>Grafikler</span></button>
+</div>
+<noscript>Bu eğitim uygulamasının etkileşimli bölümlerini kullanmak için JavaScript açık olmalıdır. <a href="index.html">Ana sayfaya dönün.</a></noscript>
+</body>
+</html>
