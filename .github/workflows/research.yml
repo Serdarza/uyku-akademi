@@ -1,0 +1,31 @@
+name: Daily scientific research sync
+on:
+  schedule:
+    - cron: '15 4 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: research-sync
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch bibliographic records
+        run: python scripts/sync_research.py
+      - name: Validate
+        run: python scripts/validate.py
+      - name: Commit updated metadata
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/research.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh research metadata"
+            git push
+          fi
