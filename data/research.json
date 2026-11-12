@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T11:51:54.100607+00:00",
+  "updated_at": "2026-11-12T12:42:04.551120+00:00",
   "records": [
     {
       "source": "PubMed",
@@ -1069,7 +1069,7 @@
       "source": "PubMed",
       "id": "PMID:42854787",
       "title": "The parent bereavement questionnaire: A measure of grief severity and prolonged grief disorder for parents of young children.",
-      "date": "2026 Oct 9",
+      "date": "2027 Jan 15",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42854787/",
       "review_status": "metadata_only"
     },
@@ -10595,6 +10595,14 @@
       "date": "2025-09-24",
       "url": "https://clinicaltrials.gov/study/NCT07203144",
       "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:43014402",
+      "title": "Prehospital Ultrasound to Identify Endotracheal Tube Dislodgment in an Infant: A Case Report.",
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43014402/",
       "review_status": "metadata_only"
     }
   ],
