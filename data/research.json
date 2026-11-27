@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T13:53:08.354250+00:00",
+  "updated_at": "2026-11-27T13:50:30.225604+00:00",
   "records": [
     {
       "source": "PubMed",
@@ -3981,7 +3981,7 @@
       "title": "Circadian-Synchronized Breast Milk Feeding and Sleep in Preterm Infants: A Multicenter Randomized Controlled Trial",
       "date": "2026-06-09",
       "url": "https://clinicaltrials.gov/study/NCT07645677",
-      "status": "NOT_YET_RECRUITING",
+      "status": "RECRUITING",
       "review_status": "metadata_only"
     },
     {
@@ -8506,7 +8506,7 @@
       "title": "EMDR Therapy in Young Children, a Double-blinded Randomized Controlled Trial",
       "date": "2022-06-02",
       "url": "https://clinicaltrials.gov/study/NCT05419934",
-      "status": "RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
       "review_status": "metadata_only"
     },
     {
@@ -12303,7 +12303,7 @@
       "title": "Standard of Care Comparative Arm of Phase 1/2 Gene Therapy Trial DREPAMIR\" in Severe Sickle Cell Disease Patients",
       "date": "2026-07-09",
       "url": "https://clinicaltrials.gov/study/NCT07752043",
-      "status": "NOT_YET_RECRUITING",
+      "status": "RECRUITING",
       "review_status": "metadata_only"
     },
     {
@@ -15649,6 +15649,518 @@
       "date": "2018-11-30",
       "url": "https://clinicaltrials.gov/study/NCT03764579",
       "status": "UNKNOWN",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "PubMed",
+      "id": "PMID:43099064",
+      "title": "Selected TPH2 and SLC6A4 gene variants show no robust association with SIDS.",
+      "date": "2026 Nov 26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43099064/",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT01921244",
+      "title": "Shared Decision Making to Improve Care and Outcomes for Children With Autism",
+      "date": "2013-08-05",
+      "url": "https://clinicaltrials.gov/study/NCT01921244",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06364072",
+      "title": "Safety, Tolerability, Analgesic Effect, and Feasibility of Intranasal CT001 in Pediatric Patients",
+      "date": "2024-04-02",
+      "url": "https://clinicaltrials.gov/study/NCT06364072",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT01863628",
+      "title": "Recognition and Early Intervention on Prodrome in Bipolar Disorders",
+      "date": "2013-05-21",
+      "url": "https://clinicaltrials.gov/study/NCT01863628",
+      "status": "UNKNOWN",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT05735600",
+      "title": "Latinx Family Wellness",
+      "date": "2023-01-10",
+      "url": "https://clinicaltrials.gov/study/NCT05735600",
+      "status": "TERMINATED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT02016638",
+      "title": "Sleep Quality in Pregnancy and Its Impact on Pregnancy Outcomes",
+      "date": "2013-12-02",
+      "url": "https://clinicaltrials.gov/study/NCT02016638",
+      "status": "UNKNOWN",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT02849626",
+      "title": "Perampanel as Adjunctive Therapy in Pediatrics With Partial Onset Seizures or Primary Generalized Tonic Clonic Seizures",
+      "date": "2016-07-26",
+      "url": "https://clinicaltrials.gov/study/NCT02849626",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06414655",
+      "title": "Multicenter Prospective Cohort Study of Twin Maternal-Child Dyads in China",
+      "date": "2024-03-17",
+      "url": "https://clinicaltrials.gov/study/NCT06414655",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT00989950",
+      "title": "Study of the Effect of Individualizing Daytrana Wear-times on Sleep in Children With ADHD",
+      "date": "2009-09-30",
+      "url": "https://clinicaltrials.gov/study/NCT00989950",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT02031068",
+      "title": "Exercise for Adolescents Following Sport-Related Concussion: A Randomized Control Trial",
+      "date": "2013-12-10",
+      "url": "https://clinicaltrials.gov/study/NCT02031068",
+      "status": "UNKNOWN",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT04549038",
+      "title": "Time Restricted Nutrition in Pediatric Stem Cell Transplant Recipients",
+      "date": "2020-09-08",
+      "url": "https://clinicaltrials.gov/study/NCT04549038",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT01036243",
+      "title": "Digestive Tolerance of Slightly Hydrolyzed Starter Infant Formula With Probiotics",
+      "date": "2009-12-17",
+      "url": "https://clinicaltrials.gov/study/NCT01036243",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06054243",
+      "title": "Efficacy of Group Cognitive Behavioural Therapy for Youth Anxiety and Insomnia",
+      "date": "2023-09-19",
+      "url": "https://clinicaltrials.gov/study/NCT06054243",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT05503849",
+      "title": "Born In Guangzhou Intervention Study",
+      "date": "2022-08-09",
+      "url": "https://clinicaltrials.gov/study/NCT05503849",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT02146287",
+      "title": "Preterm Infants: Light Effects on Health and Development",
+      "date": "2014-05-21",
+      "url": "https://clinicaltrials.gov/study/NCT02146287",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06359184",
+      "title": "Yoga, Mother's Stress and Baby",
+      "date": "2024-04-02",
+      "url": "https://clinicaltrials.gov/study/NCT06359184",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT01959347",
+      "title": "Combined Treatment for Mixed Incontinence",
+      "date": "2013-10-08",
+      "url": "https://clinicaltrials.gov/study/NCT01959347",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06016244",
+      "title": "Safe, Effective and Cost-Effective Oxygen Saturation Targets for Children and Adolescents With Respiratory Distress: a Randomized Controlled Trial",
+      "date": "2023-07-31",
+      "url": "https://clinicaltrials.gov/study/NCT06016244",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT01116375",
+      "title": "Does Treating Obstructive Sleep Apnea in Obese Canadian Youth Improve Blood Sugar Control?",
+      "date": "2010-04-30",
+      "url": "https://clinicaltrials.gov/study/NCT01116375",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06352151",
+      "title": "Effects of Orofacial Therapy and Therapeutic Yoga in Children With Down Syndrome",
+      "date": "2024-04-02",
+      "url": "https://clinicaltrials.gov/study/NCT06352151",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07792577",
+      "title": "Effectiveness of the Sleep Island WeChat Mini-Program for Promoting Sleep in Preschool Children",
+      "date": "2026-08-21",
+      "url": "https://clinicaltrials.gov/study/NCT07792577",
+      "status": "NOT_YET_RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06476626",
+      "title": "Maternal Reflective Functioning During the Transition to Motherhood",
+      "date": "2024-06-06",
+      "url": "https://clinicaltrials.gov/study/NCT06476626",
+      "status": "NOT_YET_RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07378033",
+      "title": "Body Fat Reduction and Weight Management",
+      "date": "2026-01-02",
+      "url": "https://clinicaltrials.gov/study/NCT07378033",
+      "status": "ENROLLING_BY_INVITATION",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07167732",
+      "title": "CTNNB1 Neurodevelopmental Syndrome - Natural History Study",
+      "date": "2025-09-03",
+      "url": "https://clinicaltrials.gov/study/NCT07167732",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06583447",
+      "title": "Time Restricted Eating in Childhood Obesity (TRECO)",
+      "date": "2024-08-29",
+      "url": "https://clinicaltrials.gov/study/NCT06583447",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07259343",
+      "title": "Effect of an Emollient Cream Containing a Milk Bioactive Peptide on Clinical Signs, Pruritus and Bacterial Colonization of Mild Atopic Dermatitis Skin Lesions in Pediatric Population",
+      "date": "2025-09-19",
+      "url": "https://clinicaltrials.gov/study/NCT07259343",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06399952",
+      "title": "Baker Gordon Syndrome Natural History Study",
+      "date": "2024-05-01",
+      "url": "https://clinicaltrials.gov/study/NCT06399952",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03144752",
+      "title": "Optimizing Clinical Screening and Management of Maternal Mental Health: Predicting Women at Risk for Perinatal Depression",
+      "date": "2017-05-05",
+      "url": "https://clinicaltrials.gov/study/NCT03144752",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT02688192",
+      "title": "Mobile Health Fitness Program for Adolescent and Young Adult Childhood Cancer Survivors",
+      "date": "2015-11-30",
+      "url": "https://clinicaltrials.gov/study/NCT02688192",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT04368364",
+      "title": "A Randomized Control Trial Comparing Analgesic Benefits of Ultrasound-guided Single vs Continuous Quadratus Lumborum Blocks (QLB)vs Intrathecal Morphine(ITM) for Post Cesarean Section Pain",
+      "date": "2020-04-24",
+      "url": "https://clinicaltrials.gov/study/NCT04368364",
+      "status": "TERMINATED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT02031211",
+      "title": "TNF-alpha Inhibition in CRPS: A Randomized Controlled Trial",
+      "date": "2014-01-07",
+      "url": "https://clinicaltrials.gov/study/NCT02031211",
+      "status": "WITHDRAWN",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03908099",
+      "title": "Fit-for-Fertility Multicenter Randomized Controlled Trial",
+      "date": "2019-04-02",
+      "url": "https://clinicaltrials.gov/study/NCT03908099",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06963463",
+      "title": "Transdiagnostic Sleep and Circadian Intervention + Bright Light in Adolescents With Elevated Depression (TranS-C+BL)",
+      "date": "2025-05-06",
+      "url": "https://clinicaltrials.gov/study/NCT06963463",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT02338609",
+      "title": "Long-term Monitoring of Growth and Development of Pediatric Patients Previously Treated With Everolimus",
+      "date": "2014-12-01",
+      "url": "https://clinicaltrials.gov/study/NCT02338609",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT02687516",
+      "title": "Treatment of Severely Obese Children and Adolescents Employing \"Family-based Behavioral Social Facilitation Treatment\"",
+      "date": "2014-02-21",
+      "url": "https://clinicaltrials.gov/study/NCT02687516",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT05244226",
+      "title": "Pediatric Pain Optimization After Tonsillectomy",
+      "date": "2022-02-08",
+      "url": "https://clinicaltrials.gov/study/NCT05244226",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT04880876",
+      "title": "A Study Evaluating Oral Eluxadoline Administered to Pediatric Participants With Irritable Bowel Syndrome With Diarrhea (IBS-D)",
+      "date": "2021-04-16",
+      "url": "https://clinicaltrials.gov/study/NCT04880876",
+      "status": "ENROLLING_BY_INVITATION",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT04181138",
+      "title": "Primary Sclerosing Cholangitis in Children",
+      "date": "2019-08-06",
+      "url": "https://clinicaltrials.gov/study/NCT04181138",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT04226053",
+      "title": "Room to Grow Evaluation for Children",
+      "date": "2020-01-09",
+      "url": "https://clinicaltrials.gov/study/NCT04226053",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07076381",
+      "title": "New at Parenting Study",
+      "date": "2025-07-14",
+      "url": "https://clinicaltrials.gov/study/NCT07076381",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT04864249",
+      "title": "Neonatal Sleep Intervention to Improve Postpartum Hypertension",
+      "date": "2021-04-24",
+      "url": "https://clinicaltrials.gov/study/NCT04864249",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07528833",
+      "title": "Health Effects of Mindfulness Based Stress Reduction Course in Treatment of Back Pain",
+      "date": "2026-03-30",
+      "url": "https://clinicaltrials.gov/study/NCT07528833",
+      "status": "RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03640299",
+      "title": "The Safety and Efficacy of Enhanced Recovery After Surgery on Clinical and Immune Outcomes for Gynecological Oncology",
+      "date": "2018-07-08",
+      "url": "https://clinicaltrials.gov/study/NCT03640299",
+      "status": "UNKNOWN",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03991416",
+      "title": "Understanding Your Baby: A Parallel Group Study of a Universal Parenting Support Program",
+      "date": "2019-02-28",
+      "url": "https://clinicaltrials.gov/study/NCT03991416",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07060911",
+      "title": "Pivotal Study to Assess Safety and Performance of Neola®, a Novel Lung Monitoring Device for Neonates",
+      "date": "2025-07-02",
+      "url": "https://clinicaltrials.gov/study/NCT07060911",
+      "status": "NOT_YET_RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT00599534",
+      "title": "Controlled Trial on Effect of Montelukast Treatment in Children With Obstructive Sleep Apnea Syndrome",
+      "date": "2008-01-11",
+      "url": "https://clinicaltrials.gov/study/NCT00599534",
+      "status": "WITHDRAWN",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03137147",
+      "title": "Intervention for Sleep and Pain in Youth",
+      "date": "2017-04-24",
+      "url": "https://clinicaltrials.gov/study/NCT03137147",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03494621",
+      "title": "Infant Care Practices Study",
+      "date": "2018-03-19",
+      "url": "https://clinicaltrials.gov/study/NCT03494621",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT01905072",
+      "title": "Preventing Childhood Obesity Through Early Guidance",
+      "date": "2013-07-16",
+      "url": "https://clinicaltrials.gov/study/NCT01905072",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07116902",
+      "title": "Artificial Intelligence-based Methods to Predict Disease Progression in Youth With Type 2 Diabetes",
+      "date": "2025-06-13",
+      "url": "https://clinicaltrials.gov/study/NCT07116902",
+      "status": "NOT_YET_RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06378528",
+      "title": "Ketamine-assisted Psychotherapy for Adolescent PTSD (KAP)",
+      "date": "2024-04-17",
+      "url": "https://clinicaltrials.gov/study/NCT06378528",
+      "status": "WITHDRAWN",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT02751931",
+      "title": "Open-label Phase 3 Study With Mirabegron in Children From 3 to Less Than 18 Years of Age With Neurogenic Detrusor Overactivity",
+      "date": "2016-04-22",
+      "url": "https://clinicaltrials.gov/study/NCT02751931",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT06702475",
+      "title": "Are There Sleep-related Factors That Contribute to an Increased Incidence of Pre-eclampsia at Altitude?",
+      "date": "2024-11-20",
+      "url": "https://clinicaltrials.gov/study/NCT06702475",
+      "status": "NOT_YET_RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT02554383",
+      "title": "Efficacy of Antibiotics in Children With Acute Sinusitis: Which Subgroups Benefit?",
+      "date": "2015-09-08",
+      "url": "https://clinicaltrials.gov/study/NCT02554383",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT03748888",
+      "title": "Physical Exercise Cardiovascular Adaptation Monitoring in Pregnancy (PE-CAMP Study)",
+      "date": "2018-11-13",
+      "url": "https://clinicaltrials.gov/study/NCT03748888",
+      "status": "COMPLETED",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT07272941",
+      "title": "Mindfulness-Based Intervention for Pediatric Mild Traumatic Brain Injury",
+      "date": "2025-11-26",
+      "url": "https://clinicaltrials.gov/study/NCT07272941",
+      "status": "NOT_YET_RECRUITING",
+      "review_status": "metadata_only"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "id": "NCT04847882",
+      "title": "Case-control Study of Sleep Disorders in Children With Cystic Fibrosis",
+      "date": "2021-04-13",
+      "url": "https://clinicaltrials.gov/study/NCT04847882",
+      "status": "COMPLETED",
       "review_status": "metadata_only"
     }
   ],
